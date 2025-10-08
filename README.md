@@ -3,7 +3,7 @@
   <img src="https://i.gifer.com/origin/f3/f38be5c6c10b2e292a4c5d1d45fe1577_w200.gif" alt="Estrelas animadas" width="100%" />
 </p>
 
-<h1 align="center">✨ Olá, mundo! Eu sou a Ana 👽🚀</h1>
+<h1 align="center">✨ Olá, mundo! Eu sou a Ana 🚀</h1>
 
 <p align="center">
   🪐 Estudante de <strong>Gestão da Tecnologia da Informação</strong> <br>
